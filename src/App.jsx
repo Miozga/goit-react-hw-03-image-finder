@@ -6,7 +6,7 @@ import Modal from './components/Modal';
 import Searchbar from './components/Searchbar';
 import './styles.css';
 
-const API_KEY = 'your_api_key';
+const API_KEY = '34082644-62fbc73837a8e3c89e383a92f';
 const BASE_URL = 'https://pixabay.com/api/';
 
 const App = () => {
